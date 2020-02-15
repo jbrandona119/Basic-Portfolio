@@ -143,3 +143,9 @@ h3, .sidebar, h2 {
 }
 
 /* footer */
+
+footer {
+    background: #666;
+    color: #fff;
+    padding: 30px 
+}
